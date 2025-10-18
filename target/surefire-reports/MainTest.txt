@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: MainTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.853 s <<< FAILURE! - in MainTest
+testGetAreaRectangle  Time elapsed: 0.003 s  <<< ERROR!
+java.util.IllegalFormatConversionException: f != java.lang.String
+	at MainTest.testGetAreaRectangle(MainTest.java:102)
+
+testGetVolumeRectangle  Time elapsed: 0.001 s  <<< ERROR!
+java.util.IllegalFormatConversionException: f != java.lang.String
+	at MainTest.testGetVolumeRectangle(MainTest.java:122)
+
